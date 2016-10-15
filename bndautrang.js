@@ -118,7 +118,6 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
 			jQuery("#myModal").html("<a href='https://goo.gl/zSXjRZ' target='_blank'><img src='https://lh3.googleusercontent.com/-jRYMmWStCts/V_ywd8yptPI/AAAAAAAAAPg/BPATNr2kfeMT7tFV2xGYIKLb6QuFWryuwCJoC/w530-h240-p-rw/ruou-can-tay-nguyen.jpg'/><br/>Dương Gia Phát</a>. Sửa chữa lắp đặt điện nước Tây Nguyên. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
-			jQuery("#myModal").html("<a href='https://goo.gl/bh8wKM' target='_blank'><img src='https://lh3.googleusercontent.com/-jRYMmWStCts/V_ywd8yptPI/AAAAAAAAAPg/BPATNr2kfeMT7tFV2xGYIKLb6QuFWryuwCJoC/w530-h240-p-rw/ruou-can-tay-nguyen.jpg'/><br/></a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
