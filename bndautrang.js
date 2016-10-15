@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/zSXjRZ' target='_blank'><img src='https://lh3.googleusercontent.com/yyW8ZLYm8ikOrWj2NLmG8Bp4JW7dOcqOmJcGuPDDe70f5TbsxvWRPMSPFRMikLWaLtmHNng09A=w1600-h900-rw-no'/><br/>Dương Gia Phát</a>. Sửa chữa lắp đặt điện nước Tây Nguyên. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/zSXjRZ' target='_blank'><img src='https://lh3.googleusercontent.com/-9WDXM_Wchtc/WAJFWmrFaGI/AAAAAAAAARo/4R-LD_HEmL4DgQbHMLUFcRUioLUVWYDMgCJoC/w530-h240-p-rw/lap-dat-dien-nuoc-tay-nguyen.jpg'/><br/>Dương Gia Phát</a>. Sửa chữa lắp đặt điện nước Tây Nguyên. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
